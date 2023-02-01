@@ -1,6 +1,7 @@
 # Mod5Challenge_Walsh
 Pymaceuticals, Inc. Analysis
 This assignment is broken down into the following tasks: 
+
 (1) Prepare the data.
 
 (2) Generate summary statistics.
